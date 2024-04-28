@@ -1,6 +1,7 @@
 # IntelliSense
+(Always updated link: https://intelli-sense.vercel.app)
 
-[![Project Image](https://raw.githubusercontent.com/Aditya-Muni/IntelliSense/master/public/thumbnail.png)](https://intellisense-omega.vercel.app/)
+[![Project Image](https://raw.githubusercontent.com/Aditya-Muni/IntelliSense/master/public/thumbnail.png)](https://intelli-sense.vercel.app)
 
 ### What it does ?
 IntelliSense lets you upload your pdf file and talk to it with ease. Comes with 2 plans basic (size < 4mb and pages < 5 ) and a pro plan (size < 16mb and pages < 40 ).
@@ -55,4 +56,4 @@ STRIPE_WEBHOOK_SECRET=<br />
 
 ## Live Project
 
-https://intellisense-omega.vercel.app
+https://intelli-sense.vercel.app
