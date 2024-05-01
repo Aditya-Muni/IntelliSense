@@ -7,7 +7,7 @@
 IntelliSense lets you upload your pdf file and talk to it with ease. Comes with 2 plans basic (size < 4mb and pages < 5 ) and a pro plan (size < 16mb and pages < 40 ).
 Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind.
 
-Visit link: https://intellisense-omega.vercel.app
+Visit link: https://intelli-sense.vercel.app
 
 ## Features
 
